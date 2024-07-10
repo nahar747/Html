@@ -1,0 +1,74 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mosammat Nahar Akter Nuri</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em;
+        }
+        section {
+            padding: 2em;
+        }
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 2em;
+        }
+        h1, h2 {
+            color: #4CAF50;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Mosammat Nahar Akter Nuri</h1>
+    </header>
+    <section>
+        <div class="container">
+            <h2>About Me</h2>
+            <p>Hello, my name is Mosammat Nahar Akter Nuri. I am a data entry specialist with expertise in various data management and research services.</p>
+            
+            <h2>Services</h2>
+            <ul>
+                <li>Data Entry</li>
+                <li>Data Collection</li>
+                <li>Data Mining</li>
+                <li>Data Scraping</li>
+                <li>Data Research</li>
+                <li>Excel Data Entry</li>
+                <li>Email Collection</li>
+                <li>Web Research</li>
+                <li>Web Scraping</li>
+                <li>Internet Research</li>
+                <li>Accurate Data Input</li>
+                <li>Data Merge</li>
+                <li>Lead Generation</li>
+                <li>Data Formatting</li>
+                <li>File Conversion</li>
+                <li>PDF to Excel</li>
+                <li>PDF to Word</li>
+                <li>Fast Typing</li>
+                <li>Copy Paste</li>
+            </ul>
+        </div>
+    </section>
+</body>
+</html>
